@@ -12,7 +12,7 @@ Perfect! Now I have all the pieces. Let me create a comprehensive, maintainable 
 - Moises E. Jaramillo
 
 **Participate:**
-- GitHub repo: [Specification](https://github.com/moisesja/dwn-specification)
+- GitHub repo: [Specification](https://github.com/moisesja/dwn-specification/blob/main/specification.md)
 - File a bug: [TBD]
 - Commit history: [TBD]
 
